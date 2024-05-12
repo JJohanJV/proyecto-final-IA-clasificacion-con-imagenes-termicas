@@ -1,1 +1,1 @@
-![Ejemplo](ejemplo.png)
+![Ejemplo](image(1).png)
