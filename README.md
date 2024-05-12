@@ -1,1 +1,1 @@
-![Ejemplo](image.png)
+![Banner](image.png)
