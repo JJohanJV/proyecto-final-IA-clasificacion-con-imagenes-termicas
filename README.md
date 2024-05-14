@@ -4,7 +4,7 @@ Autores: Oscar Torrens, Johan Jerez, Cristian Hernandez
 Objetivo: Desarrollar un modelo de IA capaz de clasificar personas y carros en imagenes termicas
 
 
-Dataset:
+Dataset: https://www.flir.com/oem/adas/adas-dataset-form/
 
 Metodos: Decision Tree, Random Forest, SVM, Deep learning
 
