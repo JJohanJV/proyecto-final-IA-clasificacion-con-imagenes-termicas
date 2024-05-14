@@ -1,3 +1,5 @@
+<h1>CLASIFICACIÓN DE AUTOS Y PERSONAS CON IMAGENES TERMICAS</h1>
+
 ![Banner](image.png)
 Autores: Oscar Torrens, Johan Jerez, Cristian Hernandez
 
